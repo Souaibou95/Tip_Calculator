@@ -1,0 +1,20 @@
+html {
+  background-color: #b8e5f2;
+  height = 100%;
+  font-family:sans-serif;
+}
+#containair {
+  height: 325px;
+  width: 350px;
+  background-color: #ebe7ab;
+  display: grid;
+  border: 5px solid teal;
+  border-radius: 10px;
+  padding: 5px;
+  margin: auto;
+  }
+  h1 {
+    text-align: center;
+
+  }
+  
